@@ -15,3 +15,6 @@ TV観戦になると一人になるので一緒に盛り上がれない
 # 解決方法
 試合中にチャットで会話することによってみんなと一緒に観戦しているような気分に
 なれる
+
+# 画面遷移図
+https://www.figma.com/file/Wt9lIbK165gp1TaJDJx2Ua/sports_chat?node-id=0%3A1
