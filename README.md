@@ -17,3 +17,6 @@ TV観戦になると一人になるので一緒に盛り上がれない
 
 # 画面遷移図
 https://www.figma.com/file/Wt9lIbK165gp1TaJDJx2Ua/sports_chat?node-id=0%3A1
+
+# ER図
+https://drive.google.com/file/d/1WWKVx_7RLEGRW_7NGP46D13XST9sYThw/view?usp=sharing
